@@ -5,7 +5,7 @@
 **Lone Wolf** is a 3D zombie survival story mode game where players step into the shoes of the protagonist in a post-apocalyptic world. Fight for survival against hordes of zombies, explore desolate environments, and uncover the mystery behind the outbreak. Your decisions will shape the narrative, offering a unique and immersive experience.
 
 ### Key Features
-- 🌍 **Immersive 3D Environments**: Explore eerie forests, abandoned cities, and other stunning locales.
+- 🌍 **Immersive 3D Environments**: Explore eerie forests and other stunning locales.
 - 🕹️ **Engaging Story Mode**: Navigate moral dilemmas that challenge your humanity.
 - 🌙 **Dynamic Day-Night Cycle**: Zombies become more aggressive after dark, altering gameplay.
 - 🛠️ **Crafting System**: Scavenge for resources to craft weapons, tools, and shelters.
